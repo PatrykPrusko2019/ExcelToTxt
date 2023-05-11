@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj": {}
+  },
+  "projects": {
+    "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj",
+        "projectName": "ExcelToTxt",
+        "projectPath": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj",
+        "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
+        "outputPath": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

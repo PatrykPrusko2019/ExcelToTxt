@@ -1,0 +1,154 @@
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.exe
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.g.cs
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.cache
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.lref
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.baml
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.g.resources
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfoInputs.cache
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfo.cs
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CoreCompileInputs.cache
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CopyComplete
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.deps.json
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.json
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.dev.json
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.AssemblyReference.cache
+C:\Users\patryk.prusko\source\repos\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.genruntimeconfig.cache
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.exe
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.deps.json
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.json
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.dev.json
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.AssemblyReference.cache
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.g.cs
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.cache
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.lref
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.baml
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.g.resources
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfoInputs.cache
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfo.cs
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CoreCompileInputs.cache
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CopyComplete
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.genruntimeconfig.cache
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.exe
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.deps.json
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.json
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.dev.json
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ref\ExcelToTxt.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.pdb
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.g.cs
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\App.g.cs
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.cache
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.lref
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.baml
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.baml
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.g.resources
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfoInputs.cache
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfo.cs
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CoreCompileInputs.cache
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CopyComplete
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ref\ExcelToTxt.dll
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.pdb
+D:\programs\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.genruntimeconfig.cache
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.exe
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.deps.json
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.json
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.dev.json
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.AssemblyReference.cache
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.g.cs
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.cache
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.lref
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.baml
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.g.resources
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfoInputs.cache
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfo.cs
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CoreCompileInputs.cache
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CopyComplete
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ref\ExcelToTxt.dll
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.pdb
+C:\Users\patryk.prusko\MySheets\warning in Norway\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.genruntimeconfig.cache
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.exe
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.deps.json
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.json
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.runtimeconfig.dev.json
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ref\ExcelToTxt.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ExcelToTxt.pdb
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\NPOI.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.AssemblyReference.cache
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.g.cs
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\App.g.cs
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.cache
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt_MarkupCompile.lref
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\MainWindow.baml
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\WindowCodeCountry.baml
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.g.resources
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfoInputs.cache
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.AssemblyInfo.cs
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CoreCompileInputs.cache
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.csproj.CopyComplete
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ref\ExcelToTxt.dll
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.pdb
+D:\MySheets\Programs_C_Sharp\ProjectInGithub\ExcelToTxt_second_version\ExcelToTxt\obj\Debug\net5.0-windows\ExcelToTxt.genruntimeconfig.cache

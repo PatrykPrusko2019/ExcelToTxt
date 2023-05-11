@@ -1,0 +1,11 @@
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ExcelToTxt.exe
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ExcelToTxt.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ExcelToTxt.deps.json
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ExcelToTxt.runtimeconfig.json
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ExcelToTxt.pdb
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\NPOI.OOXML.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\NPOI.OpenXml4Net.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\NPOI.OpenXmlFormats.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\NPOI.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\BouncyCastle.Crypto.dll
+C:\Users\patryk.prusko\source\repos\AirLiguid\ExcelToTxt_second_version\ExcelToTxt\bin\publish\ICSharpCode.SharpZipLib.dll
