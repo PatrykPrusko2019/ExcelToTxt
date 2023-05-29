@@ -47,7 +47,7 @@ namespace ExcelToTxt
 
         private void Button_cylinder(object sender, RoutedEventArgs e)
         {
-            if (name_Sheet_Cylinder.Text != "" && !string.IsNullOrEmpty(FilePath))
+            if (Utils.CheckUserInputByValuesCylinderOrBundle(name_Sheet_Cylinder.Text, FilePath))
             {
                 NameSheet = name_Sheet_Cylinder.Text;
                 bool result = ConvertExcelFilesToTxt(FilePath, NameSheet, 1);
@@ -95,7 +95,7 @@ namespace ExcelToTxt
 
         private void Button_bundle(object sender, RoutedEventArgs e)
         {
-            if (name_Sheet_Bundle.Text != "" && !string.IsNullOrEmpty(FilePath))
+            if (Utils.CheckUserInputByValuesCylinderOrBundle(name_Sheet_Bundle.Text, FilePath))
             {
                 NameSheet = name_Sheet_Bundle.Text;
                 bool result = ConvertExcelFilesToTxt(FilePath, NameSheet, 2);
@@ -189,7 +189,7 @@ namespace ExcelToTxt
                     switch (choiceUser)
                     {
                         case 1:
-                            if (sheet.SheetName.ToLower().Contains(nameSheet.ToLower())) // cylinders
+                            if (sheet.SheetName.ToLower().Contains(nameSheet.ToLower()) && !correctData) // cylinders
                             {
                                 correctData = true;
                                 DownloadDataCylinder dataCylinder = new DownloadDataCylinder("cylinder");
@@ -202,7 +202,7 @@ namespace ExcelToTxt
                             }
                             break;
                         case 2:
-                            if (sheet.SheetName.ToLower().Contains(nameSheet.ToLower())) // bundles
+                            if (sheet.SheetName.ToLower().Contains(nameSheet.ToLower()) && !correctData) // bundles
                             {
                                 correctData = true;
                                 DownloadDataBundle dataBundle = new DownloadDataBundle("bundle");

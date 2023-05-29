@@ -917,6 +917,11 @@ namespace ExcelToTxt
                 return false;
             }
         }
+
+        public static bool CheckUserInputByValuesCylinderOrBundle(string userInput, string filePath)
+        {
+            return !string.IsNullOrWhiteSpace(userInput) && !string.IsNullOrEmpty(filePath);
+        }
     }
 
 }
