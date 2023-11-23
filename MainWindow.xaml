@@ -14,7 +14,7 @@
 
         <Label Content="2. Cylinders.xlsx / xls ->" HorizontalAlignment="Left" Margin="22,54,0,0" VerticalAlignment="Top" Width="131"/>
         <Button Content="Convert cylinder" HorizontalAlignment="Left" Margin="291,57,0,0" VerticalAlignment="Top" Click="Button_cylinder"/>
-        <TextBox x:Name="name_Sheet_Cylinder" HorizontalAlignment="Left" Margin="174,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" AutomationProperties.HelpText="fill which spreadsheet" AutomationProperties.Name="hehe"/>
+        <TextBox x:Name="name_Sheet_Cylinder" HorizontalAlignment="Left" Margin="174,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" AutomationProperties.HelpText="fill which spreadsheet" />
         <Image x:Name="image_ok_cylinders" HorizontalAlignment="Left" Height="19" Margin="388,58,0,0" VerticalAlignment="Top" Width="26" Source="/img/image.jpg" StretchDirection="Both" Visibility="Hidden" />
 
         <Label Content="3. Bundles.xlsx / xls ->" HorizontalAlignment="Left" Margin="22,85,0,0" VerticalAlignment="Top" Width="131"/>

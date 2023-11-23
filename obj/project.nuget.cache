@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9M5Qz2Mp+Vnm278L52HuMSzfFWOivd0a+MmVKcFnAmtclzbLpx7792D05WvuVbMRnfffmia6d2UVPu8XA1mTA==",
+  "dgSpecHash": "DovM0O64LfufKvSg7s3gJ8Y0xKCQGzWtxxoucyaQKgvPOWjkdWF9rR5Bp1bXONHOxDfMlD2H7eXl7xrWQenzKA==",
   "success": true,
-  "projectFilePath": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj",
+  "projectFilePath": "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\ExcelToTxt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\patry\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",

@@ -861,7 +861,7 @@ namespace ExcelToTxt
             WindowCodeCountry windowCodeCountry = new WindowCodeCountry();
             windowCodeCountry.ShowDialog();
 
-            resultCode = windowCodeCountry.CountryCode.Code.ToString();
+            if ( !string.IsNullOrEmpty( windowCodeCountry.CountryCode.Code.ToString()) ) resultCode = windowCodeCountry.CountryCode.Code.ToString();
 
             return resultCode;
         }
@@ -921,6 +921,56 @@ namespace ExcelToTxt
         public static bool CheckUserInputByValuesCylinderOrBundle(string userInput, string filePath)
         {
             return !string.IsNullOrWhiteSpace(userInput) && !string.IsNullOrEmpty(filePath);
+        }
+
+        public static string[] GetCorrectNameAndPath(string fileName, int count)
+        {
+            string nameCylinder = "";
+            string nameBundle = "";
+            string pathCylinder = "";
+            string pathBundle = "";
+            string[] results = null;
+
+            switch (count) 
+            {
+                case 1:
+                    int index2 = fileName.LastIndexOf('\\');
+                    pathCylinder = fileName.Substring(0, index2 + 1);
+                    pathBundle = fileName.Substring(0, index2 + 1);
+                    string tempName2 = fileName.Substring(index2 + 1, fileName.Length-index2-1);
+
+                    pathCylinder = $@"{pathCylinder}\{tempName2}";
+                    pathBundle = $@"{pathBundle}\{tempName2}";
+
+                    results = new[] { pathCylinder, pathBundle };
+                    break;
+                case 2:
+                    int index = fileName.LastIndexOf('\\');
+                    pathCylinder = fileName.Substring(0, index + 1);
+                    pathBundle = fileName.Substring(0, index + 1);
+                    string tempName = fileName.Substring(index + 1, fileName.Length-index-1);
+
+                    if (tempName.Contains(';'))
+                    {
+                        string[] strings = tempName.Split(';');
+                        nameCylinder = strings[0];
+                        nameBundle = strings[1];
+                    } else
+                    {
+                        nameCylinder = tempName;
+                        nameBundle = "Bundle";    
+                    }
+
+                    pathCylinder = $@"{pathCylinder}{nameCylinder}";
+                    pathBundle = $@"{pathBundle}{nameBundle}";
+                    if (pathCylinder.Equals(pathBundle)) pathBundle += "_another";
+
+                    results = new[] { pathCylinder, pathBundle };
+                    break;
+            }
+            
+
+            return results;
         }
     }
 

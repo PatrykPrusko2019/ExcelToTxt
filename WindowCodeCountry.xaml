@@ -10,8 +10,12 @@
         <AlternationConverter x:Key="AlternationConverter"/>
     </Window.Resources>
     <Grid>
-        <ComboBox x:Name="comboBoxCodeCountry" HorizontalAlignment="Left" Margin="107,40,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBoxCodeCountry_SelectionChanged"/>
-        <Label Content="Code Country" HorizontalAlignment="Left" Margin="29,38,0,0" VerticalAlignment="Top" Width="73" Loaded="Load_Codes_Country"/>
-        <Button x:Name="buttonSubmit" Content="Submit" HorizontalAlignment="Left" Margin="240,42,0,0" VerticalAlignment="Top" Click="Button_Click_Submit" Width="50" />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="26*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="comboBoxCodeCountry" HorizontalAlignment="Left" Margin="17,40,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBoxCodeCountry_SelectionChanged" Grid.Column="1"/>
+        <Label Content="Code Country" HorizontalAlignment="Left" Margin="29,38,0,0" VerticalAlignment="Top" Width="73" Loaded="Load_Codes_Country" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonSubmit" Content="Submit" HorizontalAlignment="Left" Margin="150,42,0,0" VerticalAlignment="Top" Click="Button_Click_Submit" Width="50" Grid.Column="1" />
     </Grid>
 </Window>

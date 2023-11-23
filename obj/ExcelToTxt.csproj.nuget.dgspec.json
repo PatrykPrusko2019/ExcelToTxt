@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj": {}
+    "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\ExcelToTxt.csproj": {}
   },
   "projects": {
-    "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj": {
+    "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\ExcelToTxt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj",
+        "projectUniqueName": "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\ExcelToTxt.csproj",
         "projectName": "ExcelToTxt",
-        "projectPath": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\ExcelToTxt.csproj",
+        "projectPath": "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\ExcelToTxt.csproj",
         "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
-        "outputPath": "D:\\MySheets\\Programs_C_Sharp\\ProjectInGithub\\ExcelToTxt_second_version\\ExcelToTxt\\obj\\",
+        "outputPath": "D:\\MySheets\\ProgramsInCSharp\\GithubCode\\ExcelToTxt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
